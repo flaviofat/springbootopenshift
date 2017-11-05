@@ -1,1 +1,1 @@
-Este repositorio é um exemplo de como utilizar o Openshift com Spring Boot. Para inicia-lo basta baixar os códigos e seguir os passos e "deployiar" no Openshift. Para executa-lo em sua maquina / produção, deve-se utilizar o serviço /hello e obterá um "Hello World"
+Este repositorio é um exemplo de como utilizar o Openshift com Spring Boot. Para inicia-lo basta baixar os códigos e "deployiar" no Openshift. Para executa-lo em sua maquina / produção, deve-se utilizar o serviço /hello e obterá um "Hello World"
